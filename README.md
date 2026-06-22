@@ -10,7 +10,7 @@
 | 产品 | 版本 | 安装包 | 说明 |
 |------|------|--------|------|
 | **知聊** | 5.2.0 | [ZhiLiao-5.2.0-Setup.exe](releases/ZhiLiao-5.2.0-Setup.exe) | 微信 4.0+ 本地读库、导出、SOP、HTTP API |
-| **知销** | 2.0preview | [PrivateKings-2.0preview-win-x64.exe](releases/PrivateKings-2.0preview-win-x64.exe) | AI 回复建议、知识库、记忆、微信自动化 |
+| **知销** | 2.0preview | [https://github.com/NewbieCheng/ZhiXiao-ZhiLiao/releases/download/preview/PrivateKings-2.0preview-win-x64.exe) | AI 回复建议、知识库、记忆、微信自动化 |
 
 > 安装包体积较大，若 GitHub 网页无法直接下载，请在本仓库 **Releases** 页获取，或使用本地 `releases/` 目录中的文件。
 
