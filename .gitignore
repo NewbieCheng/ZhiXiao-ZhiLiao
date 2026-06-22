@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 安装包请通过 GitHub Releases 上传；本地 releases/ 仅作同步目录
+releases/*.exe
+releases/*.blockmap
+releases/win-unpacked/

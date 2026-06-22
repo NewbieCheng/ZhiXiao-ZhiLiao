@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2026-06-22",
+  "products": {
+    "zhiliao": {
+      "displayName": "知聊",
+      "displayNameEn": "ZhiLiao",
+      "version": "5.2.0",
+      "platform": "win-x64",
+      "artifact": "releases/ZhiLiao-5.2.0-Setup.exe",
+      "dataDir": "%USERPROFILE%\\Documents\\WeFlow",
+      "guide": "docs/知聊使用指南.md"
+    },
+    "zhixiao": {
+      "displayName": "知销",
+      "displayNameEn": "ZhiXiao",
+      "version": "2.0preview",
+      "platform": "win-x64",
+      "artifact": "releases/PrivateKings-2.0preview-win-x64.exe",
+      "dataDir": "%USERPROFILE%\\Documents\\PrivateKings",
+      "guide": "docs/知销使用指南.md"
+    }
+  }
+}
