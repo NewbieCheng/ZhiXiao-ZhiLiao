@@ -66,3 +66,4 @@ release-zhixiao-zhiliao/
 ## 反馈
 
 问题与功能建议请在对应源码仓库提交 Issue，或联系分发渠道维护者。
+![联系方式](https://raw.githubusercontent.com/NewbieCheng/ZhiXiao-ZhiLiao/refs/heads/main/wx.png) 
